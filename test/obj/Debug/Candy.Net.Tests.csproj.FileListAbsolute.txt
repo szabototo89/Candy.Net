@@ -1,0 +1,9 @@
+D:\Development\Projects\C#\Candy.Net\tests\bin\Debug\Candy.Net.Tests.dll
+D:\Development\Projects\C#\Candy.Net\tests\bin\Debug\Candy.Net.Tests.pdb
+D:\Development\Projects\C#\Candy.Net\tests\bin\Debug\Candy.Net.dll
+D:\Development\Projects\C#\Candy.Net\tests\bin\Debug\nunit.framework.dll
+D:\Development\Projects\C#\Candy.Net\tests\bin\Debug\Candy.Net.pdb
+D:\Development\Projects\C#\Candy.Net\tests\bin\Debug\nunit.framework.xml
+D:\Development\Projects\C#\Candy.Net\tests\obj\Debug\Candy.Net.Tests.csprojResolveAssemblyReference.cache
+D:\Development\Projects\C#\Candy.Net\tests\obj\Debug\Candy.Net.Tests.dll
+D:\Development\Projects\C#\Candy.Net\tests\obj\Debug\Candy.Net.Tests.pdb

@@ -1,0 +1,1 @@
+d:\Development\Projects\C#\Candy.Net\src\obj\Debug\Candy.Net.Tests.csprojResolveAssemblyReference.cache
