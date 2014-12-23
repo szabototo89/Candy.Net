@@ -16,6 +16,11 @@ namespace Candy.Core
         public static readonly None None = None.Instance;
     }
 
+
+    /// <summary>
+    /// General type of Option(T)
+    /// </summary>
+    /// <typeparam name="TValue">Type of value</typeparam>
     public struct Option<TValue> : IMonadic<TValue>, IEquatable<Option<TValue>>
     {
         private Boolean _isNone;
@@ -89,8 +94,7 @@ namespace Candy.Core
 
         public override Int32 GetHashCode()
         {
-            unchecked
-            {
+            unchecked {
                 return (HasValue.GetHashCode() * 397) ^ EqualityComparer<TValue>.Default.GetHashCode(Value);
             }
         }

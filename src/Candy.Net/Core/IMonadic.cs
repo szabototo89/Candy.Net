@@ -2,7 +2,7 @@ using System;
 
 namespace Candy.Core
 {
-    public interface IMonadic<out TValue>
+    internal interface IMonadic<out TValue>
     {
         IMonadic<TResult> Map<TResult>(Func<TValue, TResult> transform);
 
