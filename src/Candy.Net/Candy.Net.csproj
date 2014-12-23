@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Core\IMonadic.cs" />
     <Compile Include="Core\Option.cs" />
+    <Compile Include="Core\Try.cs" />
     <Compile Include="Linq\NumberExtensions.cs" />
     <Compile Include="Linq\ObjectExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
