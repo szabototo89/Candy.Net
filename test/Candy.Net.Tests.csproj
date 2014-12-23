@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Core\OptionTestFixture.cs" />
+    <Compile Include="Core\TryTestFixture.cs" />
     <Compile Include="Linq\NumberExtensionsTestFixture.cs" />
     <Compile Include="Linq\ObjectExtensionsTestFixture.cs" />
     <Compile Include="Mocks\Address.cs" />

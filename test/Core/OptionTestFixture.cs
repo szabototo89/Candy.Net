@@ -62,7 +62,7 @@ namespace Candy.Net.Tests.Core
         }
 
         [Test(Description = "Option should be able to compare their values")]
-        public void OptionShouldBeAbleToCompareTheirValues()
+        public void Option_Should_Be_Able_To_Compare_Their_Values()
         {
             // Given
             var underTest = Option.Some(Option.Some("Hello World!"));
